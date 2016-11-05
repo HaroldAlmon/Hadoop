@@ -1,6 +1,6 @@
 package com.translationdata;
 
-public class Main {
+public class UserViews {
     public static void main(String[] args) {
 
     }
